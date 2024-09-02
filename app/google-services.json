@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "854135501335",
+    "firebase_url": "https://pelmeds-taskmanager.firebaseio.com",
+    "project_id": "pelmeds-taskmanager",
+    "storage_bucket": "pelmeds-taskmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854135501335:android:cbebae0807374af3",
+        "android_client_info": {
+          "package_name": "com.metiz.taskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854135501335-8dblrteb4faq5fv0m96n4c4up5a1b2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7hEn9AUZ0fH_2zPB-6jO4OKTripxF2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854135501335:android:8b5cb9d8456b7489",
+        "android_client_info": {
+          "package_name": "com.metiz.pelconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854135501335-8dblrteb4faq5fv0m96n4c4up5a1b2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7hEn9AUZ0fH_2zPB-6jO4OKTripxF2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
